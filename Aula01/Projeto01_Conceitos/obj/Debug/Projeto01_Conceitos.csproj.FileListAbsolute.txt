@@ -1,8 +1,0 @@
-C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Projetos_CSharp\Aula01\Projeto01_Conceitos\bin\Debug\Projeto01_Conceitos.exe.config
-C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Projetos_CSharp\Aula01\Projeto01_Conceitos\bin\Debug\Projeto01_Conceitos.exe
-C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Projetos_CSharp\Aula01\Projeto01_Conceitos\bin\Debug\Projeto01_Conceitos.pdb
-C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Projetos_CSharp\Aula01\Projeto01_Conceitos\obj\Debug\Projeto01_Conceitos.csproj.AssemblyReference.cache
-C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Projetos_CSharp\Aula01\Projeto01_Conceitos\obj\Debug\Projeto01_Conceitos.csproj.SuggestedBindingRedirects.cache
-C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Projetos_CSharp\Aula01\Projeto01_Conceitos\obj\Debug\Projeto01_Conceitos.csproj.CoreCompileInputs.cache
-C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Projetos_CSharp\Aula01\Projeto01_Conceitos\obj\Debug\Projeto01_Conceitos.exe
-C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Projetos_CSharp\Aula01\Projeto01_Conceitos\obj\Debug\Projeto01_Conceitos.pdb
