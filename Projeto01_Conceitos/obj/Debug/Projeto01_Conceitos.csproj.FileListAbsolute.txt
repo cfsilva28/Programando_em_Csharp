@@ -1,0 +1,7 @@
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Aula_01\Projeto01_Conceitos\bin\Debug\Projeto01_Conceitos.exe.config
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Aula_01\Projeto01_Conceitos\bin\Debug\Projeto01_Conceitos.exe
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Aula_01\Projeto01_Conceitos\bin\Debug\Projeto01_Conceitos.pdb
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Aula_01\Projeto01_Conceitos\obj\Debug\Projeto01_Conceitos.csproj.AssemblyReference.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Aula_01\Projeto01_Conceitos\obj\Debug\Projeto01_Conceitos.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Aula_01\Projeto01_Conceitos\obj\Debug\Projeto01_Conceitos.exe
+C:\Users\Paulo\Documents\Treinamentos\IMPACTA\NET-CSharp\Aula_01\Projeto01_Conceitos\obj\Debug\Projeto01_Conceitos.pdb
