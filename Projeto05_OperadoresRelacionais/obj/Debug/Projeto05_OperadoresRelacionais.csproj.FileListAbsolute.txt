@@ -1,0 +1,8 @@
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto05_OperadoresRelacionais\bin\Debug\Projeto05_OperadoresRelacionais.exe.config
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto05_OperadoresRelacionais\bin\Debug\Projeto05_OperadoresRelacionais.exe
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto05_OperadoresRelacionais\bin\Debug\Projeto05_OperadoresRelacionais.pdb
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto05_OperadoresRelacionais\obj\Debug\Projeto05_OperadoresRelacionais.csproj.AssemblyReference.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto05_OperadoresRelacionais\obj\Debug\Projeto05_OperadoresRelacionais.csproj.SuggestedBindingRedirects.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto05_OperadoresRelacionais\obj\Debug\Projeto05_OperadoresRelacionais.csproj.CoreCompileInputs.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto05_OperadoresRelacionais\obj\Debug\Projeto05_OperadoresRelacionais.exe
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto05_OperadoresRelacionais\obj\Debug\Projeto05_OperadoresRelacionais.pdb
