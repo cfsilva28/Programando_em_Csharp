@@ -1,0 +1,8 @@
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto07_OperadorTernario\bin\Debug\Projeto07_OperadorTernario.exe.config
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto07_OperadorTernario\bin\Debug\Projeto07_OperadorTernario.exe
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto07_OperadorTernario\bin\Debug\Projeto07_OperadorTernario.pdb
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto07_OperadorTernario\obj\Debug\Projeto07_OperadorTernario.csproj.AssemblyReference.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto07_OperadorTernario\obj\Debug\Projeto07_OperadorTernario.csproj.SuggestedBindingRedirects.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto07_OperadorTernario\obj\Debug\Projeto07_OperadorTernario.csproj.CoreCompileInputs.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto07_OperadorTernario\obj\Debug\Projeto07_OperadorTernario.exe
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto07_OperadorTernario\obj\Debug\Projeto07_OperadorTernario.pdb
