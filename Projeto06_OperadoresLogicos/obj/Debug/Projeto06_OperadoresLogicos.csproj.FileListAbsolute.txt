@@ -1,0 +1,8 @@
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto06_OperadoresLogicos\bin\Debug\Projeto06_OperadoresLogicos.exe.config
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto06_OperadoresLogicos\bin\Debug\Projeto06_OperadoresLogicos.exe
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto06_OperadoresLogicos\bin\Debug\Projeto06_OperadoresLogicos.pdb
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto06_OperadoresLogicos\obj\Debug\Projeto06_OperadoresLogicos.csproj.AssemblyReference.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto06_OperadoresLogicos\obj\Debug\Projeto06_OperadoresLogicos.csproj.SuggestedBindingRedirects.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto06_OperadoresLogicos\obj\Debug\Projeto06_OperadoresLogicos.csproj.CoreCompileInputs.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto06_OperadoresLogicos\obj\Debug\Projeto06_OperadoresLogicos.exe
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto06_OperadoresLogicos\obj\Debug\Projeto06_OperadoresLogicos.pdb
