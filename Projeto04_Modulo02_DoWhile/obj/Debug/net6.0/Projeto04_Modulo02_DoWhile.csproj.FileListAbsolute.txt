@@ -1,0 +1,15 @@
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto04_Modulo02_DoWhile\bin\Debug\net6.0\Projeto04_Modulo02_DoWhile.exe
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto04_Modulo02_DoWhile\bin\Debug\net6.0\Projeto04_Modulo02_DoWhile.deps.json
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto04_Modulo02_DoWhile\bin\Debug\net6.0\Projeto04_Modulo02_DoWhile.runtimeconfig.json
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto04_Modulo02_DoWhile\bin\Debug\net6.0\Projeto04_Modulo02_DoWhile.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto04_Modulo02_DoWhile\bin\Debug\net6.0\Projeto04_Modulo02_DoWhile.pdb
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto04_Modulo02_DoWhile\obj\Debug\net6.0\Projeto04_Modulo02_DoWhile.csproj.AssemblyReference.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto04_Modulo02_DoWhile\obj\Debug\net6.0\Projeto04_Modulo02_DoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto04_Modulo02_DoWhile\obj\Debug\net6.0\Projeto04_Modulo02_DoWhile.AssemblyInfoInputs.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto04_Modulo02_DoWhile\obj\Debug\net6.0\Projeto04_Modulo02_DoWhile.AssemblyInfo.cs
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto04_Modulo02_DoWhile\obj\Debug\net6.0\Projeto04_Modulo02_DoWhile.csproj.CoreCompileInputs.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto04_Modulo02_DoWhile\obj\Debug\net6.0\Projeto04_Modulo02_DoWhile.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto04_Modulo02_DoWhile\obj\Debug\net6.0\refint\Projeto04_Modulo02_DoWhile.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto04_Modulo02_DoWhile\obj\Debug\net6.0\Projeto04_Modulo02_DoWhile.pdb
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto04_Modulo02_DoWhile\obj\Debug\net6.0\Projeto04_Modulo02_DoWhile.genruntimeconfig.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto04_Modulo02_DoWhile\obj\Debug\net6.0\ref\Projeto04_Modulo02_DoWhile.dll

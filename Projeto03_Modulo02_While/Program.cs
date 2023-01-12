@@ -14,7 +14,7 @@ while (num <= 5000)
 
         num += 1000;
 
-        continue; // Caso o valor acima na condição for verdadeiro o "continue" ignora as demais ações abaixo dele 
+        continue; // Caso o valor acima na condição for verdadeiro o "continue" ignora as demais ações abaixo dele
                   // Fazendo a operação iniciar novamente da primeira etapa.
     }
 
