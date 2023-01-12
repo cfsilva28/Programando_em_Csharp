@@ -1,0 +1,8 @@
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto11_Casting\bin\Debug\Projeto11_Casting.exe.config
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto11_Casting\bin\Debug\Projeto11_Casting.exe
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto11_Casting\bin\Debug\Projeto11_Casting.pdb
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto11_Casting\obj\Debug\Projeto11_Casting.csproj.AssemblyReference.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto11_Casting\obj\Debug\Projeto11_Casting.csproj.SuggestedBindingRedirects.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto11_Casting\obj\Debug\Projeto11_Casting.csproj.CoreCompileInputs.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto11_Casting\obj\Debug\Projeto11_Casting.exe
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto11_Casting\obj\Debug\Projeto11_Casting.pdb
