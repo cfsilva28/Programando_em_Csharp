@@ -1,0 +1,15 @@
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto_01_Modulo03_Classes\Projeto_01_Modulo03_Classes\bin\Debug\net6.0\Projeto_01_Modulo03_Classes.exe
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto_01_Modulo03_Classes\Projeto_01_Modulo03_Classes\bin\Debug\net6.0\Projeto_01_Modulo03_Classes.deps.json
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto_01_Modulo03_Classes\Projeto_01_Modulo03_Classes\bin\Debug\net6.0\Projeto_01_Modulo03_Classes.runtimeconfig.json
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto_01_Modulo03_Classes\Projeto_01_Modulo03_Classes\bin\Debug\net6.0\Projeto_01_Modulo03_Classes.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto_01_Modulo03_Classes\Projeto_01_Modulo03_Classes\bin\Debug\net6.0\Projeto_01_Modulo03_Classes.pdb
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto_01_Modulo03_Classes\Projeto_01_Modulo03_Classes\obj\Debug\net6.0\Projeto_01_Modulo03_Classes.csproj.AssemblyReference.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto_01_Modulo03_Classes\Projeto_01_Modulo03_Classes\obj\Debug\net6.0\Projeto_01_Modulo03_Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto_01_Modulo03_Classes\Projeto_01_Modulo03_Classes\obj\Debug\net6.0\Projeto_01_Modulo03_Classes.AssemblyInfoInputs.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto_01_Modulo03_Classes\Projeto_01_Modulo03_Classes\obj\Debug\net6.0\Projeto_01_Modulo03_Classes.AssemblyInfo.cs
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto_01_Modulo03_Classes\Projeto_01_Modulo03_Classes\obj\Debug\net6.0\Projeto_01_Modulo03_Classes.csproj.CoreCompileInputs.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto_01_Modulo03_Classes\Projeto_01_Modulo03_Classes\obj\Debug\net6.0\Projeto_01_Modulo03_Classes.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto_01_Modulo03_Classes\Projeto_01_Modulo03_Classes\obj\Debug\net6.0\refint\Projeto_01_Modulo03_Classes.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto_01_Modulo03_Classes\Projeto_01_Modulo03_Classes\obj\Debug\net6.0\Projeto_01_Modulo03_Classes.pdb
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto_01_Modulo03_Classes\Projeto_01_Modulo03_Classes\obj\Debug\net6.0\Projeto_01_Modulo03_Classes.genruntimeconfig.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto_01_Modulo03_Classes\Projeto_01_Modulo03_Classes\obj\Debug\net6.0\ref\Projeto_01_Modulo03_Classes.dll
