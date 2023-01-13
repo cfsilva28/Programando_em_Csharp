@@ -1,0 +1,15 @@
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto06_Modulo02_Foreach\bin\Debug\net6.0\Projeto06_Modulo02_Foreach.exe
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto06_Modulo02_Foreach\bin\Debug\net6.0\Projeto06_Modulo02_Foreach.deps.json
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto06_Modulo02_Foreach\bin\Debug\net6.0\Projeto06_Modulo02_Foreach.runtimeconfig.json
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto06_Modulo02_Foreach\bin\Debug\net6.0\Projeto06_Modulo02_Foreach.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto06_Modulo02_Foreach\bin\Debug\net6.0\Projeto06_Modulo02_Foreach.pdb
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto06_Modulo02_Foreach\obj\Debug\net6.0\Projeto06_Modulo02_Foreach.csproj.AssemblyReference.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto06_Modulo02_Foreach\obj\Debug\net6.0\Projeto06_Modulo02_Foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto06_Modulo02_Foreach\obj\Debug\net6.0\Projeto06_Modulo02_Foreach.AssemblyInfoInputs.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto06_Modulo02_Foreach\obj\Debug\net6.0\Projeto06_Modulo02_Foreach.AssemblyInfo.cs
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto06_Modulo02_Foreach\obj\Debug\net6.0\Projeto06_Modulo02_Foreach.csproj.CoreCompileInputs.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto06_Modulo02_Foreach\obj\Debug\net6.0\Projeto06_Modulo02_Foreach.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto06_Modulo02_Foreach\obj\Debug\net6.0\refint\Projeto06_Modulo02_Foreach.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto06_Modulo02_Foreach\obj\Debug\net6.0\Projeto06_Modulo02_Foreach.pdb
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto06_Modulo02_Foreach\obj\Debug\net6.0\Projeto06_Modulo02_Foreach.genruntimeconfig.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto06_Modulo02_Foreach\obj\Debug\net6.0\ref\Projeto06_Modulo02_Foreach.dll
