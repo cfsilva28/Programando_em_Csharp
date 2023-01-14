@@ -24,5 +24,10 @@ namespace Projeto04_Modulo03_PropriedadesExpressoes.Class
             get => _salario;
             set => _salario = value;
         }
+
+        public decimal Irpf
+        {
+            get => Salario * 0.1m;
+        }
     }
 }
