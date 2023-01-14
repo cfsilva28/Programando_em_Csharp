@@ -1,0 +1,2 @@
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto_01_Modulo03_Classes\Projeto05_Modulo03_PropriedadesImpricitas\obj\Debug\net6.0\Projeto05_Modulo03_PropriedadesImpricitas.csproj.AssemblyReference.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto_01_Modulo03_Classes\Projeto05_Modulo03_PropriedadesImpricitas\obj\Debug\net6.0\Projeto05_Modulo03_PropriedadesImpricitas.GeneratedMSBuildEditorConfig.editorconfig

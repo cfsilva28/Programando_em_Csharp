@@ -1,0 +1,2 @@
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto_01_Modulo03_Classes\Projeto04_Modulo03_PropriedadesExpressoes\obj\Debug\net6.0\Projeto04_Modulo03_PropriedadesExpressoes.csproj.AssemblyReference.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Projeto_01_Modulo03_Classes\Projeto04_Modulo03_PropriedadesExpressoes\obj\Debug\net6.0\Projeto04_Modulo03_PropriedadesExpressoes.GeneratedMSBuildEditorConfig.editorconfig
