@@ -33,7 +33,7 @@ namespace Projeto03_Modulo03_Encapsulamento.Class
 
         public decimal Irpf
         {
-            get { return Salario * 0.1m; }
+            get { return Salario * 0.1m;}
         }
     }
 }
