@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ceferreira\\Documents\\Programando com C# (Online - Ao Vivo)\\Programando_em_Csharp\\Projeto_01_Modulo03_Classes\\Projeto03_Modulo03_Encapsulamento\\Projeto03_Modulo03_Encapsulamento.csproj": {}
+    "C:\\Users\\ceferreira\\Documents\\Programando com C# (Online - Ao Vivo)\\Programando_em_Csharp\\Modulo03\\Projeto03_Modulo03_Encapsulamento\\Projeto03_Modulo03_Encapsulamento.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ceferreira\\Documents\\Programando com C# (Online - Ao Vivo)\\Programando_em_Csharp\\Projeto_01_Modulo03_Classes\\Projeto03_Modulo03_Encapsulamento\\Projeto03_Modulo03_Encapsulamento.csproj": {
+    "C:\\Users\\ceferreira\\Documents\\Programando com C# (Online - Ao Vivo)\\Programando_em_Csharp\\Modulo03\\Projeto03_Modulo03_Encapsulamento\\Projeto03_Modulo03_Encapsulamento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ceferreira\\Documents\\Programando com C# (Online - Ao Vivo)\\Programando_em_Csharp\\Projeto_01_Modulo03_Classes\\Projeto03_Modulo03_Encapsulamento\\Projeto03_Modulo03_Encapsulamento.csproj",
+        "projectUniqueName": "C:\\Users\\ceferreira\\Documents\\Programando com C# (Online - Ao Vivo)\\Programando_em_Csharp\\Modulo03\\Projeto03_Modulo03_Encapsulamento\\Projeto03_Modulo03_Encapsulamento.csproj",
         "projectName": "Projeto03_Modulo03_Encapsulamento",
-        "projectPath": "C:\\Users\\ceferreira\\Documents\\Programando com C# (Online - Ao Vivo)\\Programando_em_Csharp\\Projeto_01_Modulo03_Classes\\Projeto03_Modulo03_Encapsulamento\\Projeto03_Modulo03_Encapsulamento.csproj",
+        "projectPath": "C:\\Users\\ceferreira\\Documents\\Programando com C# (Online - Ao Vivo)\\Programando_em_Csharp\\Modulo03\\Projeto03_Modulo03_Encapsulamento\\Projeto03_Modulo03_Encapsulamento.csproj",
         "packagesPath": "C:\\Users\\ceferreira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ceferreira\\Documents\\Programando com C# (Online - Ao Vivo)\\Programando_em_Csharp\\Projeto_01_Modulo03_Classes\\Projeto03_Modulo03_Encapsulamento\\obj\\",
+        "outputPath": "C:\\Users\\ceferreira\\Documents\\Programando com C# (Online - Ao Vivo)\\Programando_em_Csharp\\Modulo03\\Projeto03_Modulo03_Encapsulamento\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ceferreira\\AppData\\Roaming\\NuGet\\NuGet.Config",

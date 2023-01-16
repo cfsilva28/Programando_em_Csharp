@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ceferreira\\Documents\\Programando com C# (Online - Ao Vivo)\\Programando_em_Csharp\\Projeto_01_Modulo03_Classes\\Projeto_01_Modulo03_Classes\\Projeto_01_Modulo03_Classes.csproj": {}
+    "C:\\Users\\ceferreira\\Documents\\Programando com C# (Online - Ao Vivo)\\Programando_em_Csharp\\Modulo03\\Projeto_01_Modulo03_Classes\\Projeto_01_Modulo03_Classes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ceferreira\\Documents\\Programando com C# (Online - Ao Vivo)\\Programando_em_Csharp\\Projeto_01_Modulo03_Classes\\Projeto_01_Modulo03_Classes\\Projeto_01_Modulo03_Classes.csproj": {
+    "C:\\Users\\ceferreira\\Documents\\Programando com C# (Online - Ao Vivo)\\Programando_em_Csharp\\Modulo03\\Projeto_01_Modulo03_Classes\\Projeto_01_Modulo03_Classes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ceferreira\\Documents\\Programando com C# (Online - Ao Vivo)\\Programando_em_Csharp\\Projeto_01_Modulo03_Classes\\Projeto_01_Modulo03_Classes\\Projeto_01_Modulo03_Classes.csproj",
+        "projectUniqueName": "C:\\Users\\ceferreira\\Documents\\Programando com C# (Online - Ao Vivo)\\Programando_em_Csharp\\Modulo03\\Projeto_01_Modulo03_Classes\\Projeto_01_Modulo03_Classes.csproj",
         "projectName": "Projeto_01_Modulo03_Classes",
-        "projectPath": "C:\\Users\\ceferreira\\Documents\\Programando com C# (Online - Ao Vivo)\\Programando_em_Csharp\\Projeto_01_Modulo03_Classes\\Projeto_01_Modulo03_Classes\\Projeto_01_Modulo03_Classes.csproj",
+        "projectPath": "C:\\Users\\ceferreira\\Documents\\Programando com C# (Online - Ao Vivo)\\Programando_em_Csharp\\Modulo03\\Projeto_01_Modulo03_Classes\\Projeto_01_Modulo03_Classes.csproj",
         "packagesPath": "C:\\Users\\ceferreira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ceferreira\\Documents\\Programando com C# (Online - Ao Vivo)\\Programando_em_Csharp\\Projeto_01_Modulo03_Classes\\Projeto_01_Modulo03_Classes\\obj\\",
+        "outputPath": "C:\\Users\\ceferreira\\Documents\\Programando com C# (Online - Ao Vivo)\\Programando_em_Csharp\\Modulo03\\Projeto_01_Modulo03_Classes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ceferreira\\AppData\\Roaming\\NuGet\\NuGet.Config",

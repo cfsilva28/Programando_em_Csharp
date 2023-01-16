@@ -3,19 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32228.430
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto_01_Modulo03_Classes", "Projeto_01_Modulo03_Classes\Projeto_01_Modulo03_Classes.csproj", "{B39635A7-9907-40DA-ABC3-CF9C358AF77E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projeto_01_Modulo03_Classes", "Projeto_01_Modulo03_Classes\Projeto_01_Modulo03_Classes.csproj", "{B39635A7-9907-40DA-ABC3-CF9C358AF77E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto02_Modulo03_Propriedades", "Projeto02_Modulo03_Propriedades\Projeto02_Modulo03_Propriedades.csproj", "{AF5CBC76-D042-4AEE-8783-50A6397B0684}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projeto02_Modulo03_Propriedades", "Projeto02_Modulo03_Propriedades\Projeto02_Modulo03_Propriedades.csproj", "{AF5CBC76-D042-4AEE-8783-50A6397B0684}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto03_Modulo03_Encapsulamento", "Projeto03_Modulo03_Encapsulamento\Projeto03_Modulo03_Encapsulamento.csproj", "{247EAC56-2E54-4CC7-B796-43C7F9ABE5BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projeto03_Modulo03_Encapsulamento", "Projeto03_Modulo03_Encapsulamento\Projeto03_Modulo03_Encapsulamento.csproj", "{247EAC56-2E54-4CC7-B796-43C7F9ABE5BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto04_Modulo03_PropriedadesExpressoes", "Projeto04_Modulo03_PropriedadesExpressoes\Projeto04_Modulo03_PropriedadesExpressoes.csproj", "{608240D5-774D-4F70-88C5-CDAE4231F65C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projeto04_Modulo03_PropriedadesExpressoes", "Projeto04_Modulo03_PropriedadesExpressoes\Projeto04_Modulo03_PropriedadesExpressoes.csproj", "{608240D5-774D-4F70-88C5-CDAE4231F65C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto05_Modulo03_PropriedadesImplicitas", "Projeto05_Modulo03_PropriedadesImpricitas\Projeto05_Modulo03_PropriedadesImplicitas.csproj", "{38CB7B0C-8345-41EC-B7ED-3C227ACE1E41}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto06_Modulo03_ReferenciaThis", "Projeto06_Modulo03_ReferenciaThis\Projeto06_Modulo03_ReferenciaThis.csproj", "{048B8F0A-F2E6-408B-9C1A-8CDB813D4E54}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projeto06_Modulo03_ReferenciaThis", "Projeto06_Modulo03_ReferenciaThis\Projeto06_Modulo03_ReferenciaThis.csproj", "{048B8F0A-F2E6-408B-9C1A-8CDB813D4E54}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto07_Modulo03_Enumeradores", "Projeto07_Modulo03_Enumeradores\Projeto07_Modulo03_Enumeradores.csproj", "{7F1797E0-21C0-46D6-AE5A-90A1894316C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projeto07_Modulo03_Enumeradores", "Projeto07_Modulo03_Enumeradores\Projeto07_Modulo03_Enumeradores.csproj", "{7F1797E0-21C0-46D6-AE5A-90A1894316C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto09_Modulo03_ModificarStatic", "Projeto09_Modulo03_ModificarStatic\Projeto09_Modulo03_ModificarStatic.csproj", "{6B526416-719D-4411-A494-726C52842DF4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{7F1797E0-21C0-46D6-AE5A-90A1894316C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F1797E0-21C0-46D6-AE5A-90A1894316C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F1797E0-21C0-46D6-AE5A-90A1894316C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B526416-719D-4411-A494-726C52842DF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B526416-719D-4411-A494-726C52842DF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B526416-719D-4411-A494-726C52842DF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B526416-719D-4411-A494-726C52842DF4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

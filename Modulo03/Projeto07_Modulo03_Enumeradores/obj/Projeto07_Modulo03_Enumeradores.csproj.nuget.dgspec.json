@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ceferreira\\Documents\\Programando com C# (Online - Ao Vivo)\\Programando_em_Csharp\\Projeto_01_Modulo03_Classes\\Projeto07_Modulo03_Enumeradores\\Projeto07_Modulo03_Enumeradores.csproj": {}
+    "C:\\Users\\ceferreira\\Documents\\Programando com C# (Online - Ao Vivo)\\Programando_em_Csharp\\Modulo03\\Projeto07_Modulo03_Enumeradores\\Projeto07_Modulo03_Enumeradores.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ceferreira\\Documents\\Programando com C# (Online - Ao Vivo)\\Programando_em_Csharp\\Projeto_01_Modulo03_Classes\\Projeto07_Modulo03_Enumeradores\\Projeto07_Modulo03_Enumeradores.csproj": {
+    "C:\\Users\\ceferreira\\Documents\\Programando com C# (Online - Ao Vivo)\\Programando_em_Csharp\\Modulo03\\Projeto07_Modulo03_Enumeradores\\Projeto07_Modulo03_Enumeradores.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ceferreira\\Documents\\Programando com C# (Online - Ao Vivo)\\Programando_em_Csharp\\Projeto_01_Modulo03_Classes\\Projeto07_Modulo03_Enumeradores\\Projeto07_Modulo03_Enumeradores.csproj",
+        "projectUniqueName": "C:\\Users\\ceferreira\\Documents\\Programando com C# (Online - Ao Vivo)\\Programando_em_Csharp\\Modulo03\\Projeto07_Modulo03_Enumeradores\\Projeto07_Modulo03_Enumeradores.csproj",
         "projectName": "Projeto07_Modulo03_Enumeradores",
-        "projectPath": "C:\\Users\\ceferreira\\Documents\\Programando com C# (Online - Ao Vivo)\\Programando_em_Csharp\\Projeto_01_Modulo03_Classes\\Projeto07_Modulo03_Enumeradores\\Projeto07_Modulo03_Enumeradores.csproj",
+        "projectPath": "C:\\Users\\ceferreira\\Documents\\Programando com C# (Online - Ao Vivo)\\Programando_em_Csharp\\Modulo03\\Projeto07_Modulo03_Enumeradores\\Projeto07_Modulo03_Enumeradores.csproj",
         "packagesPath": "C:\\Users\\ceferreira\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ceferreira\\Documents\\Programando com C# (Online - Ao Vivo)\\Programando_em_Csharp\\Projeto_01_Modulo03_Classes\\Projeto07_Modulo03_Enumeradores\\obj\\",
+        "outputPath": "C:\\Users\\ceferreira\\Documents\\Programando com C# (Online - Ao Vivo)\\Programando_em_Csharp\\Modulo03\\Projeto07_Modulo03_Enumeradores\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ceferreira\\AppData\\Roaming\\NuGet\\NuGet.Config",
