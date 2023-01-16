@@ -9,9 +9,9 @@ namespace Projeto09_Modulo03_ModificarStatic.Class
     internal class Automovel
     {
 
-        public static string Fabricante { get; set; }
+        public static string? Fabricante { get; set; }
 
-        public static string Modelo { get; set; }
+        public static string? Modelo { get; set; }
 
         public string ExibirDados()
         {

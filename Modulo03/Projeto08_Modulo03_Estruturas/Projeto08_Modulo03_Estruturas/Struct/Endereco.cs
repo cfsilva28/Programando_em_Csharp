@@ -16,7 +16,7 @@ namespace Projeto08_Modulo03_Estruturas.Struct
      * Uma classe é um tipo referência. A instância de uma classe é chamada object e fica armazenada na memória heap
      * 
      * A classe permite herança e polimorfismo
-     * Link:
+     * Link: https://www.treinaweb.com.br/blog/gerenciamento-de-memoria-no-c-stack-heap-value-types-e-reference-types
      */
     internal struct Endereco
     {
