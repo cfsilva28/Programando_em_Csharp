@@ -1,0 +1,15 @@
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto10_Modulo03_Metodos\bin\Debug\net6.0\Projeto10_Modulo03_Metodos.exe
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto10_Modulo03_Metodos\bin\Debug\net6.0\Projeto10_Modulo03_Metodos.deps.json
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto10_Modulo03_Metodos\bin\Debug\net6.0\Projeto10_Modulo03_Metodos.runtimeconfig.json
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto10_Modulo03_Metodos\bin\Debug\net6.0\Projeto10_Modulo03_Metodos.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto10_Modulo03_Metodos\bin\Debug\net6.0\Projeto10_Modulo03_Metodos.pdb
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto10_Modulo03_Metodos\obj\Debug\net6.0\Projeto10_Modulo03_Metodos.csproj.AssemblyReference.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto10_Modulo03_Metodos\obj\Debug\net6.0\Projeto10_Modulo03_Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto10_Modulo03_Metodos\obj\Debug\net6.0\Projeto10_Modulo03_Metodos.AssemblyInfoInputs.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto10_Modulo03_Metodos\obj\Debug\net6.0\Projeto10_Modulo03_Metodos.AssemblyInfo.cs
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto10_Modulo03_Metodos\obj\Debug\net6.0\Projeto10_Modulo03_Metodos.csproj.CoreCompileInputs.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto10_Modulo03_Metodos\obj\Debug\net6.0\Projeto10_Modulo03_Metodos.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto10_Modulo03_Metodos\obj\Debug\net6.0\refint\Projeto10_Modulo03_Metodos.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto10_Modulo03_Metodos\obj\Debug\net6.0\Projeto10_Modulo03_Metodos.pdb
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto10_Modulo03_Metodos\obj\Debug\net6.0\Projeto10_Modulo03_Metodos.genruntimeconfig.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto10_Modulo03_Metodos\obj\Debug\net6.0\ref\Projeto10_Modulo03_Metodos.dll

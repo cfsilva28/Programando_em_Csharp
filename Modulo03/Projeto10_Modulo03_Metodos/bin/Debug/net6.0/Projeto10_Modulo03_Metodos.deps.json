@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Projeto10_Modulo03_Metodos/1.0.0": {
+        "runtime": {
+          "Projeto10_Modulo03_Metodos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projeto10_Modulo03_Metodos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
