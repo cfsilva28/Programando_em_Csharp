@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Projeto11_Modulo03_SobrecargaMetodos/1.0.0": {
+        "runtime": {
+          "Projeto11_Modulo03_SobrecargaMetodos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projeto11_Modulo03_SobrecargaMetodos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
