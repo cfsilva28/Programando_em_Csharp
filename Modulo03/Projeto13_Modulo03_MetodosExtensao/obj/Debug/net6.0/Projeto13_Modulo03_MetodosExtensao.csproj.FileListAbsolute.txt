@@ -1,0 +1,15 @@
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto13_Modulo03_MetodosExtensao\bin\Debug\net6.0\Projeto13_Modulo03_MetodosExtensao.exe
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto13_Modulo03_MetodosExtensao\bin\Debug\net6.0\Projeto13_Modulo03_MetodosExtensao.deps.json
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto13_Modulo03_MetodosExtensao\bin\Debug\net6.0\Projeto13_Modulo03_MetodosExtensao.runtimeconfig.json
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto13_Modulo03_MetodosExtensao\bin\Debug\net6.0\Projeto13_Modulo03_MetodosExtensao.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto13_Modulo03_MetodosExtensao\bin\Debug\net6.0\Projeto13_Modulo03_MetodosExtensao.pdb
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto13_Modulo03_MetodosExtensao\obj\Debug\net6.0\Projeto13_Modulo03_MetodosExtensao.csproj.AssemblyReference.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto13_Modulo03_MetodosExtensao\obj\Debug\net6.0\Projeto13_Modulo03_MetodosExtensao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto13_Modulo03_MetodosExtensao\obj\Debug\net6.0\Projeto13_Modulo03_MetodosExtensao.AssemblyInfoInputs.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto13_Modulo03_MetodosExtensao\obj\Debug\net6.0\Projeto13_Modulo03_MetodosExtensao.AssemblyInfo.cs
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto13_Modulo03_MetodosExtensao\obj\Debug\net6.0\Projeto13_Modulo03_MetodosExtensao.csproj.CoreCompileInputs.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto13_Modulo03_MetodosExtensao\obj\Debug\net6.0\Projeto13_Modulo03_MetodosExtensao.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto13_Modulo03_MetodosExtensao\obj\Debug\net6.0\refint\Projeto13_Modulo03_MetodosExtensao.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto13_Modulo03_MetodosExtensao\obj\Debug\net6.0\Projeto13_Modulo03_MetodosExtensao.pdb
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto13_Modulo03_MetodosExtensao\obj\Debug\net6.0\Projeto13_Modulo03_MetodosExtensao.genruntimeconfig.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto13_Modulo03_MetodosExtensao\obj\Debug\net6.0\ref\Projeto13_Modulo03_MetodosExtensao.dll

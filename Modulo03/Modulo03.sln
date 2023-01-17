@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto11_Modulo03_Sobrecar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto12_modulo03_MetodosEstaticos", "Projeto12_modulo03_MetodosEstaticos\Projeto12_modulo03_MetodosEstaticos.csproj", "{8A1893F4-90F2-473F-9220-B5411372B318}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto13_Modulo03_MetodosExtensao", "Projeto13_Modulo03_MetodosExtensao\Projeto13_Modulo03_MetodosExtensao.csproj", "{C1B73FF5-A603-42D4-8E30-83DAD1E6361A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{8A1893F4-90F2-473F-9220-B5411372B318}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8A1893F4-90F2-473F-9220-B5411372B318}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8A1893F4-90F2-473F-9220-B5411372B318}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1B73FF5-A603-42D4-8E30-83DAD1E6361A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1B73FF5-A603-42D4-8E30-83DAD1E6361A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1B73FF5-A603-42D4-8E30-83DAD1E6361A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1B73FF5-A603-42D4-8E30-83DAD1E6361A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Projeto13_Modulo03_MetodosExtensao/1.0.0": {
+        "runtime": {
+          "Projeto13_Modulo03_MetodosExtensao.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projeto13_Modulo03_MetodosExtensao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
