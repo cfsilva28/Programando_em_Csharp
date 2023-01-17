@@ -18,5 +18,10 @@ namespace Projeto14_Modulo03_ParametrosReferenciaValor.Class
             parametro++;
         }
 
+        public static void Referencia(Parametro objeto)
+        {
+            objeto.parametro = 25;
+        }
+
     }
 }

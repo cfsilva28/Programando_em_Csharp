@@ -24,7 +24,7 @@
 
 using Projeto14_Modulo03_ParametrosReferenciaValor.Class;
 
-Console.WriteLine("Passagem de Prâmetro - Valor");
+Console.WriteLine("Passagem de Prâmetro -Tipo-Valor");
 
 Console.WriteLine();
 
@@ -42,7 +42,7 @@ Console.WriteLine(new string('-', 60));
 
 Console.WriteLine();
 
-Console.WriteLine("Passagem de Parâmetro - Palavra chave ref");
+Console.WriteLine("Passagem de Parâmetro - Tipo Valor Palavra chave ref");
 
 Console.WriteLine();
 
@@ -53,5 +53,23 @@ Console.WriteLine($"Valor de j: {j}");
 Passagem.Incremento(ref j);
 
 Console.WriteLine($"Valor de j: {j}");
+
+Console.WriteLine();
+
+Console.WriteLine(new string('-', 60));
+
+Console.WriteLine("Passagem Parâmetro Tipo Referência");
+
+Console.WriteLine();
+
+Parametro k = new Parametro();
+
+Console.WriteLine($"Valor do campo parâmetro: {k.parametro}");
+
+Passagem.Referencia(k);
+
+Console.WriteLine();
+
+Console.WriteLine($"Valor do campo parâmetro: {k.parametro}");
 
 Console.ReadKey();

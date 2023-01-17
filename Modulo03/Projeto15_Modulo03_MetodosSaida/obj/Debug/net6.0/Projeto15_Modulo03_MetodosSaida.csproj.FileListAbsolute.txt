@@ -1,0 +1,15 @@
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto15_Modulo03_MetodosSaida\bin\Debug\net6.0\Projeto15_Modulo03_MetodosSaida.exe
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto15_Modulo03_MetodosSaida\bin\Debug\net6.0\Projeto15_Modulo03_MetodosSaida.deps.json
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto15_Modulo03_MetodosSaida\bin\Debug\net6.0\Projeto15_Modulo03_MetodosSaida.runtimeconfig.json
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto15_Modulo03_MetodosSaida\bin\Debug\net6.0\Projeto15_Modulo03_MetodosSaida.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto15_Modulo03_MetodosSaida\bin\Debug\net6.0\Projeto15_Modulo03_MetodosSaida.pdb
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto15_Modulo03_MetodosSaida\obj\Debug\net6.0\Projeto15_Modulo03_MetodosSaida.csproj.AssemblyReference.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto15_Modulo03_MetodosSaida\obj\Debug\net6.0\Projeto15_Modulo03_MetodosSaida.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto15_Modulo03_MetodosSaida\obj\Debug\net6.0\Projeto15_Modulo03_MetodosSaida.AssemblyInfoInputs.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto15_Modulo03_MetodosSaida\obj\Debug\net6.0\Projeto15_Modulo03_MetodosSaida.AssemblyInfo.cs
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto15_Modulo03_MetodosSaida\obj\Debug\net6.0\Projeto15_Modulo03_MetodosSaida.csproj.CoreCompileInputs.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto15_Modulo03_MetodosSaida\obj\Debug\net6.0\Projeto15_Modulo03_MetodosSaida.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto15_Modulo03_MetodosSaida\obj\Debug\net6.0\refint\Projeto15_Modulo03_MetodosSaida.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto15_Modulo03_MetodosSaida\obj\Debug\net6.0\Projeto15_Modulo03_MetodosSaida.pdb
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto15_Modulo03_MetodosSaida\obj\Debug\net6.0\Projeto15_Modulo03_MetodosSaida.genruntimeconfig.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto15_Modulo03_MetodosSaida\obj\Debug\net6.0\ref\Projeto15_Modulo03_MetodosSaida.dll

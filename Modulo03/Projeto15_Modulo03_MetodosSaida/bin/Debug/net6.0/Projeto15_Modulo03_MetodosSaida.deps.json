@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Projeto15_Modulo03_MetodosSaida/1.0.0": {
+        "runtime": {
+          "Projeto15_Modulo03_MetodosSaida.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projeto15_Modulo03_MetodosSaida/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
