@@ -1,0 +1,15 @@
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto12_modulo03_MetodosEstaticos\obj\Debug\net6.0\Projeto12_modulo03_MetodosEstaticos.csproj.AssemblyReference.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto12_modulo03_MetodosEstaticos\obj\Debug\net6.0\Projeto12_modulo03_MetodosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto12_modulo03_MetodosEstaticos\obj\Debug\net6.0\Projeto12_modulo03_MetodosEstaticos.AssemblyInfoInputs.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto12_modulo03_MetodosEstaticos\obj\Debug\net6.0\Projeto12_modulo03_MetodosEstaticos.AssemblyInfo.cs
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto12_modulo03_MetodosEstaticos\obj\Debug\net6.0\Projeto12_modulo03_MetodosEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto12_modulo03_MetodosEstaticos\bin\Debug\net6.0\Projeto12_modulo03_MetodosEstaticos.exe
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto12_modulo03_MetodosEstaticos\bin\Debug\net6.0\Projeto12_modulo03_MetodosEstaticos.deps.json
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto12_modulo03_MetodosEstaticos\bin\Debug\net6.0\Projeto12_modulo03_MetodosEstaticos.runtimeconfig.json
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto12_modulo03_MetodosEstaticos\bin\Debug\net6.0\Projeto12_modulo03_MetodosEstaticos.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto12_modulo03_MetodosEstaticos\bin\Debug\net6.0\Projeto12_modulo03_MetodosEstaticos.pdb
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto12_modulo03_MetodosEstaticos\obj\Debug\net6.0\Projeto12_modulo03_MetodosEstaticos.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto12_modulo03_MetodosEstaticos\obj\Debug\net6.0\refint\Projeto12_modulo03_MetodosEstaticos.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto12_modulo03_MetodosEstaticos\obj\Debug\net6.0\Projeto12_modulo03_MetodosEstaticos.pdb
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto12_modulo03_MetodosEstaticos\obj\Debug\net6.0\Projeto12_modulo03_MetodosEstaticos.genruntimeconfig.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto12_modulo03_MetodosEstaticos\obj\Debug\net6.0\ref\Projeto12_modulo03_MetodosEstaticos.dll
