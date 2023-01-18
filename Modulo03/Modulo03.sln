@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto14_Modulo03_Parametr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto15_Modulo03_MetodosSaida", "Projeto15_Modulo03_MetodosSaida\Projeto15_Modulo03_MetodosSaida.csproj", "{B7ADC7DE-C84D-4F76-A142-CD98DB2A52B3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto16_Modulo03_ParametrosOpcionaisDefault", "Projeto16_Modulo03_ParametrosOpcionaisDefault\Projeto16_Modulo03_ParametrosOpcionaisDefault.csproj", "{563BCA83-8DB8-486D-B64B-72413D5B614C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{B7ADC7DE-C84D-4F76-A142-CD98DB2A52B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7ADC7DE-C84D-4F76-A142-CD98DB2A52B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7ADC7DE-C84D-4F76-A142-CD98DB2A52B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{563BCA83-8DB8-486D-B64B-72413D5B614C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{563BCA83-8DB8-486D-B64B-72413D5B614C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{563BCA83-8DB8-486D-B64B-72413D5B614C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{563BCA83-8DB8-486D-B64B-72413D5B614C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
