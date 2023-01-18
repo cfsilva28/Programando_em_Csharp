@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto01_Modulo04_Construt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto02_Modulo04_ConstrutorPersonalizado", "Projeto02_Modulo04_ConstrutorPersonalizado\Projeto02_Modulo04_ConstrutorPersonalizado.csproj", "{E9BAF1A7-91D7-4850-AC17-7D4D8EC8E280}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto03_Modulo04_ConstrutorSobrecarregado", "Projeto03_Modulo04_ConstrutorSobrecarregado\Projeto03_Modulo04_ConstrutorSobrecarregado.csproj", "{D4B5182A-7EFB-4E3C-A35C-0350FC4D7244}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{E9BAF1A7-91D7-4850-AC17-7D4D8EC8E280}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E9BAF1A7-91D7-4850-AC17-7D4D8EC8E280}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E9BAF1A7-91D7-4850-AC17-7D4D8EC8E280}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4B5182A-7EFB-4E3C-A35C-0350FC4D7244}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4B5182A-7EFB-4E3C-A35C-0350FC4D7244}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4B5182A-7EFB-4E3C-A35C-0350FC4D7244}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4B5182A-7EFB-4E3C-A35C-0350FC4D7244}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
