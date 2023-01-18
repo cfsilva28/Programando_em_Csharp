@@ -1,0 +1,15 @@
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto17_Modulo03_MetodoReferences\bin\Debug\net6.0\Projeto17_Modulo03_MethodReferences.exe
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto17_Modulo03_MetodoReferences\bin\Debug\net6.0\Projeto17_Modulo03_MethodReferences.deps.json
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto17_Modulo03_MetodoReferences\bin\Debug\net6.0\Projeto17_Modulo03_MethodReferences.runtimeconfig.json
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto17_Modulo03_MetodoReferences\bin\Debug\net6.0\Projeto17_Modulo03_MethodReferences.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto17_Modulo03_MetodoReferences\bin\Debug\net6.0\Projeto17_Modulo03_MethodReferences.pdb
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto17_Modulo03_MetodoReferences\obj\Debug\net6.0\Projeto17_Modulo03_MethodReferences.csproj.AssemblyReference.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto17_Modulo03_MetodoReferences\obj\Debug\net6.0\Projeto17_Modulo03_MethodReferences.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto17_Modulo03_MetodoReferences\obj\Debug\net6.0\Projeto17_Modulo03_MethodReferences.AssemblyInfoInputs.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto17_Modulo03_MetodoReferences\obj\Debug\net6.0\Projeto17_Modulo03_MethodReferences.AssemblyInfo.cs
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto17_Modulo03_MetodoReferences\obj\Debug\net6.0\Projeto17_Modulo03_MethodReferences.csproj.CoreCompileInputs.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto17_Modulo03_MetodoReferences\obj\Debug\net6.0\Projeto17_Modulo03_MethodReferences.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto17_Modulo03_MetodoReferences\obj\Debug\net6.0\refint\Projeto17_Modulo03_MethodReferences.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto17_Modulo03_MetodoReferences\obj\Debug\net6.0\Projeto17_Modulo03_MethodReferences.pdb
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto17_Modulo03_MetodoReferences\obj\Debug\net6.0\Projeto17_Modulo03_MethodReferences.genruntimeconfig.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto17_Modulo03_MetodoReferences\obj\Debug\net6.0\ref\Projeto17_Modulo03_MethodReferences.dll

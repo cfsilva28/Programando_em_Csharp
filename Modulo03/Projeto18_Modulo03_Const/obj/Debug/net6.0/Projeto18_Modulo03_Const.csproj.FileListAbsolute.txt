@@ -1,0 +1,15 @@
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto18_Modulo03_Const\bin\Debug\net6.0\Projeto18_Modulo03_Const.exe
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto18_Modulo03_Const\bin\Debug\net6.0\Projeto18_Modulo03_Const.deps.json
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto18_Modulo03_Const\bin\Debug\net6.0\Projeto18_Modulo03_Const.runtimeconfig.json
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto18_Modulo03_Const\bin\Debug\net6.0\Projeto18_Modulo03_Const.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto18_Modulo03_Const\bin\Debug\net6.0\Projeto18_Modulo03_Const.pdb
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto18_Modulo03_Const\obj\Debug\net6.0\Projeto18_Modulo03_Const.csproj.AssemblyReference.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto18_Modulo03_Const\obj\Debug\net6.0\Projeto18_Modulo03_Const.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto18_Modulo03_Const\obj\Debug\net6.0\Projeto18_Modulo03_Const.AssemblyInfoInputs.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto18_Modulo03_Const\obj\Debug\net6.0\Projeto18_Modulo03_Const.AssemblyInfo.cs
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto18_Modulo03_Const\obj\Debug\net6.0\Projeto18_Modulo03_Const.csproj.CoreCompileInputs.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto18_Modulo03_Const\obj\Debug\net6.0\Projeto18_Modulo03_Const.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto18_Modulo03_Const\obj\Debug\net6.0\refint\Projeto18_Modulo03_Const.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto18_Modulo03_Const\obj\Debug\net6.0\Projeto18_Modulo03_Const.pdb
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto18_Modulo03_Const\obj\Debug\net6.0\Projeto18_Modulo03_Const.genruntimeconfig.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo03\Projeto18_Modulo03_Const\obj\Debug\net6.0\ref\Projeto18_Modulo03_Const.dll
