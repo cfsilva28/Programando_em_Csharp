@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ceferreira\\Documents\\Programando com C# (Online - Ao Vivo)\\Programando_em_Csharp\\Modulo05\\Herança\\Heranca_Polimorfismo\\Projeto01_Heranca\\Projeto01_Heranca.csproj",
-      "projectName": "Projeto01_Heranca",
-      "projectPath": "C:\\Users\\ceferreira\\Documents\\Programando com C# (Online - Ao Vivo)\\Programando_em_Csharp\\Modulo05\\Herança\\Heranca_Polimorfismo\\Projeto01_Heranca\\Projeto01_Heranca.csproj",
+      "projectUniqueName": "C:\\Users\\ceferreira\\Documents\\Programando com C# (Online - Ao Vivo)\\Programando_em_Csharp\\Modulo05\\Herança\\Projeto02_Modulo05_OperadorBase\\Projeto02_Modulo05_OperadorBase.csproj",
+      "projectName": "Projeto02_Modulo05_OperadorBase",
+      "projectPath": "C:\\Users\\ceferreira\\Documents\\Programando com C# (Online - Ao Vivo)\\Programando_em_Csharp\\Modulo05\\Herança\\Projeto02_Modulo05_OperadorBase\\Projeto02_Modulo05_OperadorBase.csproj",
       "packagesPath": "C:\\Users\\ceferreira\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ceferreira\\Documents\\Programando com C# (Online - Ao Vivo)\\Programando_em_Csharp\\Modulo05\\Herança\\Heranca_Polimorfismo\\Projeto01_Heranca\\obj\\",
+      "outputPath": "C:\\Users\\ceferreira\\Documents\\Programando com C# (Online - Ao Vivo)\\Programando_em_Csharp\\Modulo05\\Herança\\Projeto02_Modulo05_OperadorBase\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ceferreira\\AppData\\Roaming\\NuGet\\NuGet.Config",
