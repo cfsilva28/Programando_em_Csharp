@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Projeto03_Polimorfismo", "P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto04_ClassesAbstratas", "..\Projeto04_ClassesAbstratas\Projeto04_ClassesAbstratas.csproj", "{525F8932-A364-4BA1-8333-F98F8A6910A8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projeto05_ClassesSealed", "..\Projeto05_ClassesSealed\Projeto05_ClassesSealed.csproj", "{9B0ECD9C-6D1C-4414-AA10-51516FA82C31}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{525F8932-A364-4BA1-8333-F98F8A6910A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{525F8932-A364-4BA1-8333-F98F8A6910A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{525F8932-A364-4BA1-8333-F98F8A6910A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B0ECD9C-6D1C-4414-AA10-51516FA82C31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B0ECD9C-6D1C-4414-AA10-51516FA82C31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B0ECD9C-6D1C-4414-AA10-51516FA82C31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B0ECD9C-6D1C-4414-AA10-51516FA82C31}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
