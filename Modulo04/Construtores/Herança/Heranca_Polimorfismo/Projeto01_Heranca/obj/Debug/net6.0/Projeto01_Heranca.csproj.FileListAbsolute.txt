@@ -1,0 +1,15 @@
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo04\Construtores\Herança\Heranca_Polimorfismo\Projeto01_Heranca\bin\Debug\net6.0\Projeto01_Heranca.exe
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo04\Construtores\Herança\Heranca_Polimorfismo\Projeto01_Heranca\bin\Debug\net6.0\Projeto01_Heranca.deps.json
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo04\Construtores\Herança\Heranca_Polimorfismo\Projeto01_Heranca\bin\Debug\net6.0\Projeto01_Heranca.runtimeconfig.json
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo04\Construtores\Herança\Heranca_Polimorfismo\Projeto01_Heranca\bin\Debug\net6.0\Projeto01_Heranca.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo04\Construtores\Herança\Heranca_Polimorfismo\Projeto01_Heranca\bin\Debug\net6.0\Projeto01_Heranca.pdb
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo04\Construtores\Herança\Heranca_Polimorfismo\Projeto01_Heranca\obj\Debug\net6.0\Projeto01_Heranca.csproj.AssemblyReference.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo04\Construtores\Herança\Heranca_Polimorfismo\Projeto01_Heranca\obj\Debug\net6.0\Projeto01_Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo04\Construtores\Herança\Heranca_Polimorfismo\Projeto01_Heranca\obj\Debug\net6.0\Projeto01_Heranca.AssemblyInfoInputs.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo04\Construtores\Herança\Heranca_Polimorfismo\Projeto01_Heranca\obj\Debug\net6.0\Projeto01_Heranca.AssemblyInfo.cs
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo04\Construtores\Herança\Heranca_Polimorfismo\Projeto01_Heranca\obj\Debug\net6.0\Projeto01_Heranca.csproj.CoreCompileInputs.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo04\Construtores\Herança\Heranca_Polimorfismo\Projeto01_Heranca\obj\Debug\net6.0\Projeto01_Heranca.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo04\Construtores\Herança\Heranca_Polimorfismo\Projeto01_Heranca\obj\Debug\net6.0\refint\Projeto01_Heranca.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo04\Construtores\Herança\Heranca_Polimorfismo\Projeto01_Heranca\obj\Debug\net6.0\Projeto01_Heranca.pdb
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo04\Construtores\Herança\Heranca_Polimorfismo\Projeto01_Heranca\obj\Debug\net6.0\Projeto01_Heranca.genruntimeconfig.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo04\Construtores\Herança\Heranca_Polimorfismo\Projeto01_Heranca\obj\Debug\net6.0\ref\Projeto01_Heranca.dll
