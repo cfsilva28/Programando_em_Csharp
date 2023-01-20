@@ -1,0 +1,15 @@
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo06\Interfaces\Projeto02_Exercicio\obj\Debug\net6.0\Projeto02_Exercicio.csproj.AssemblyReference.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo06\Interfaces\Projeto02_Exercicio\obj\Debug\net6.0\Projeto02_Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo06\Interfaces\Projeto02_Exercicio\obj\Debug\net6.0\Projeto02_Exercicio.AssemblyInfoInputs.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo06\Interfaces\Projeto02_Exercicio\obj\Debug\net6.0\Projeto02_Exercicio.AssemblyInfo.cs
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo06\Interfaces\Projeto02_Exercicio\obj\Debug\net6.0\Projeto02_Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo06\Interfaces\Projeto02_Exercicio\bin\Debug\net6.0\Projeto02_Exercicio.exe
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo06\Interfaces\Projeto02_Exercicio\bin\Debug\net6.0\Projeto02_Exercicio.deps.json
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo06\Interfaces\Projeto02_Exercicio\bin\Debug\net6.0\Projeto02_Exercicio.runtimeconfig.json
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo06\Interfaces\Projeto02_Exercicio\bin\Debug\net6.0\Projeto02_Exercicio.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo06\Interfaces\Projeto02_Exercicio\bin\Debug\net6.0\Projeto02_Exercicio.pdb
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo06\Interfaces\Projeto02_Exercicio\obj\Debug\net6.0\Projeto02_Exercicio.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo06\Interfaces\Projeto02_Exercicio\obj\Debug\net6.0\refint\Projeto02_Exercicio.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo06\Interfaces\Projeto02_Exercicio\obj\Debug\net6.0\Projeto02_Exercicio.pdb
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo06\Interfaces\Projeto02_Exercicio\obj\Debug\net6.0\Projeto02_Exercicio.genruntimeconfig.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo06\Interfaces\Projeto02_Exercicio\obj\Debug\net6.0\ref\Projeto02_Exercicio.dll
