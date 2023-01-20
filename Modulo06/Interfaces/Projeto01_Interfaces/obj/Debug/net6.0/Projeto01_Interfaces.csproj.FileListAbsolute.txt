@@ -1,0 +1,15 @@
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo06\Interfaces\Projeto01_Interfaces\obj\Debug\net6.0\Projeto01_Interfaces.csproj.AssemblyReference.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo06\Interfaces\Projeto01_Interfaces\obj\Debug\net6.0\Projeto01_Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo06\Interfaces\Projeto01_Interfaces\obj\Debug\net6.0\Projeto01_Interfaces.AssemblyInfoInputs.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo06\Interfaces\Projeto01_Interfaces\obj\Debug\net6.0\Projeto01_Interfaces.AssemblyInfo.cs
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo06\Interfaces\Projeto01_Interfaces\obj\Debug\net6.0\Projeto01_Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo06\Interfaces\Projeto01_Interfaces\bin\Debug\net6.0\Projeto01_Interfaces.exe
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo06\Interfaces\Projeto01_Interfaces\bin\Debug\net6.0\Projeto01_Interfaces.deps.json
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo06\Interfaces\Projeto01_Interfaces\bin\Debug\net6.0\Projeto01_Interfaces.runtimeconfig.json
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo06\Interfaces\Projeto01_Interfaces\bin\Debug\net6.0\Projeto01_Interfaces.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo06\Interfaces\Projeto01_Interfaces\bin\Debug\net6.0\Projeto01_Interfaces.pdb
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo06\Interfaces\Projeto01_Interfaces\obj\Debug\net6.0\Projeto01_Interfaces.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo06\Interfaces\Projeto01_Interfaces\obj\Debug\net6.0\refint\Projeto01_Interfaces.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo06\Interfaces\Projeto01_Interfaces\obj\Debug\net6.0\Projeto01_Interfaces.pdb
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo06\Interfaces\Projeto01_Interfaces\obj\Debug\net6.0\Projeto01_Interfaces.genruntimeconfig.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo06\Interfaces\Projeto01_Interfaces\obj\Debug\net6.0\ref\Projeto01_Interfaces.dll
