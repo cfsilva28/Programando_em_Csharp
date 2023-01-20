@@ -1,0 +1,15 @@
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto02_ArrayLista\bin\Debug\net6.0\Projeto02_ArrayLista.exe
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto02_ArrayLista\bin\Debug\net6.0\Projeto02_ArrayLista.deps.json
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto02_ArrayLista\bin\Debug\net6.0\Projeto02_ArrayLista.runtimeconfig.json
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto02_ArrayLista\bin\Debug\net6.0\Projeto02_ArrayLista.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto02_ArrayLista\bin\Debug\net6.0\Projeto02_ArrayLista.pdb
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto02_ArrayLista\obj\Debug\net6.0\Projeto02_ArrayLista.csproj.AssemblyReference.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto02_ArrayLista\obj\Debug\net6.0\Projeto02_ArrayLista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto02_ArrayLista\obj\Debug\net6.0\Projeto02_ArrayLista.AssemblyInfoInputs.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto02_ArrayLista\obj\Debug\net6.0\Projeto02_ArrayLista.AssemblyInfo.cs
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto02_ArrayLista\obj\Debug\net6.0\Projeto02_ArrayLista.csproj.CoreCompileInputs.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto02_ArrayLista\obj\Debug\net6.0\Projeto02_ArrayLista.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto02_ArrayLista\obj\Debug\net6.0\refint\Projeto02_ArrayLista.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto02_ArrayLista\obj\Debug\net6.0\Projeto02_ArrayLista.pdb
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto02_ArrayLista\obj\Debug\net6.0\Projeto02_ArrayLista.genruntimeconfig.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto02_ArrayLista\obj\Debug\net6.0\ref\Projeto02_ArrayLista.dll
