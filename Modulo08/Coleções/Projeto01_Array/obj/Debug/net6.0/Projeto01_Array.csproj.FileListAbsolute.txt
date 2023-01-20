@@ -1,0 +1,15 @@
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto01_Array\bin\Debug\net6.0\Projeto01_Array.exe
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto01_Array\bin\Debug\net6.0\Projeto01_Array.deps.json
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto01_Array\bin\Debug\net6.0\Projeto01_Array.runtimeconfig.json
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto01_Array\bin\Debug\net6.0\Projeto01_Array.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto01_Array\bin\Debug\net6.0\Projeto01_Array.pdb
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto01_Array\obj\Debug\net6.0\Projeto01_Array.csproj.AssemblyReference.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto01_Array\obj\Debug\net6.0\Projeto01_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto01_Array\obj\Debug\net6.0\Projeto01_Array.AssemblyInfoInputs.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto01_Array\obj\Debug\net6.0\Projeto01_Array.AssemblyInfo.cs
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto01_Array\obj\Debug\net6.0\Projeto01_Array.csproj.CoreCompileInputs.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto01_Array\obj\Debug\net6.0\Projeto01_Array.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto01_Array\obj\Debug\net6.0\refint\Projeto01_Array.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto01_Array\obj\Debug\net6.0\Projeto01_Array.pdb
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto01_Array\obj\Debug\net6.0\Projeto01_Array.genruntimeconfig.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto01_Array\obj\Debug\net6.0\ref\Projeto01_Array.dll
