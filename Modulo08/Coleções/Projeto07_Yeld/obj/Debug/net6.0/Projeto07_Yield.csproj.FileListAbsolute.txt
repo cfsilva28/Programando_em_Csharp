@@ -1,0 +1,15 @@
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto07_Yeld\bin\Debug\net6.0\Projeto07_Yield.exe
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto07_Yeld\bin\Debug\net6.0\Projeto07_Yield.deps.json
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto07_Yeld\bin\Debug\net6.0\Projeto07_Yield.runtimeconfig.json
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto07_Yeld\bin\Debug\net6.0\Projeto07_Yield.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto07_Yeld\bin\Debug\net6.0\Projeto07_Yield.pdb
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto07_Yeld\obj\Debug\net6.0\Projeto07_Yield.csproj.AssemblyReference.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto07_Yeld\obj\Debug\net6.0\Projeto07_Yield.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto07_Yeld\obj\Debug\net6.0\Projeto07_Yield.AssemblyInfoInputs.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto07_Yeld\obj\Debug\net6.0\Projeto07_Yield.AssemblyInfo.cs
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto07_Yeld\obj\Debug\net6.0\Projeto07_Yield.csproj.CoreCompileInputs.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto07_Yeld\obj\Debug\net6.0\Projeto07_Yield.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto07_Yeld\obj\Debug\net6.0\refint\Projeto07_Yield.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto07_Yeld\obj\Debug\net6.0\Projeto07_Yield.pdb
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto07_Yeld\obj\Debug\net6.0\Projeto07_Yield.genruntimeconfig.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto07_Yeld\obj\Debug\net6.0\ref\Projeto07_Yield.dll
