@@ -1,0 +1,15 @@
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto03Stack\bin\Debug\net6.0\Projeto03Stack.exe
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto03Stack\bin\Debug\net6.0\Projeto03Stack.deps.json
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto03Stack\bin\Debug\net6.0\Projeto03Stack.runtimeconfig.json
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto03Stack\bin\Debug\net6.0\Projeto03Stack.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto03Stack\bin\Debug\net6.0\Projeto03Stack.pdb
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto03Stack\obj\Debug\net6.0\Projeto03Stack.csproj.AssemblyReference.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto03Stack\obj\Debug\net6.0\Projeto03Stack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto03Stack\obj\Debug\net6.0\Projeto03Stack.AssemblyInfoInputs.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto03Stack\obj\Debug\net6.0\Projeto03Stack.AssemblyInfo.cs
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto03Stack\obj\Debug\net6.0\Projeto03Stack.csproj.CoreCompileInputs.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto03Stack\obj\Debug\net6.0\Projeto03Stack.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto03Stack\obj\Debug\net6.0\refint\Projeto03Stack.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto03Stack\obj\Debug\net6.0\Projeto03Stack.pdb
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto03Stack\obj\Debug\net6.0\Projeto03Stack.genruntimeconfig.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto03Stack\obj\Debug\net6.0\ref\Projeto03Stack.dll
