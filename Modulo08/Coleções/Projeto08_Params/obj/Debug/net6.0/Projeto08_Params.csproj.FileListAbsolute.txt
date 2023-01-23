@@ -1,0 +1,15 @@
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto08_Params\bin\Debug\net6.0\Projeto08_Params.exe
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto08_Params\bin\Debug\net6.0\Projeto08_Params.deps.json
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto08_Params\bin\Debug\net6.0\Projeto08_Params.runtimeconfig.json
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto08_Params\bin\Debug\net6.0\Projeto08_Params.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto08_Params\bin\Debug\net6.0\Projeto08_Params.pdb
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto08_Params\obj\Debug\net6.0\Projeto08_Params.csproj.AssemblyReference.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto08_Params\obj\Debug\net6.0\Projeto08_Params.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto08_Params\obj\Debug\net6.0\Projeto08_Params.AssemblyInfoInputs.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto08_Params\obj\Debug\net6.0\Projeto08_Params.AssemblyInfo.cs
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto08_Params\obj\Debug\net6.0\Projeto08_Params.csproj.CoreCompileInputs.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto08_Params\obj\Debug\net6.0\Projeto08_Params.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto08_Params\obj\Debug\net6.0\refint\Projeto08_Params.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto08_Params\obj\Debug\net6.0\Projeto08_Params.pdb
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto08_Params\obj\Debug\net6.0\Projeto08_Params.genruntimeconfig.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo08\Coleções\Projeto08_Params\obj\Debug\net6.0\ref\Projeto08_Params.dll
