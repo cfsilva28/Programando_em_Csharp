@@ -28,7 +28,7 @@ static int CalculaIdade(string dataNascimento)
 
 Console.Write($"Informe a data de nascimento: ");
 
-string dataNascimento = Console.ReadLine();
+string? dataNascimento = Console.ReadLine();
 
 try
 {
