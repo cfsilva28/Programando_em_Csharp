@@ -35,6 +35,7 @@ namespace Projeto01_Delegates
 
             Console.WriteLine($"Resultado da multiplicação: { resultado}");
 
+
             Console.ReadKey();
         }
     }
