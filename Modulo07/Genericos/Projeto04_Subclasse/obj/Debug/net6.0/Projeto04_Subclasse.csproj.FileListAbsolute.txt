@@ -1,0 +1,15 @@
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo07\Genericos\Projeto04_Subclasse\obj\Debug\net6.0\Projeto04_Subclasse.csproj.AssemblyReference.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo07\Genericos\Projeto04_Subclasse\obj\Debug\net6.0\Projeto04_Subclasse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo07\Genericos\Projeto04_Subclasse\obj\Debug\net6.0\Projeto04_Subclasse.AssemblyInfoInputs.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo07\Genericos\Projeto04_Subclasse\obj\Debug\net6.0\Projeto04_Subclasse.AssemblyInfo.cs
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo07\Genericos\Projeto04_Subclasse\obj\Debug\net6.0\Projeto04_Subclasse.csproj.CoreCompileInputs.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo07\Genericos\Projeto04_Subclasse\bin\Debug\net6.0\Projeto04_Subclasse.exe
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo07\Genericos\Projeto04_Subclasse\bin\Debug\net6.0\Projeto04_Subclasse.deps.json
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo07\Genericos\Projeto04_Subclasse\bin\Debug\net6.0\Projeto04_Subclasse.runtimeconfig.json
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo07\Genericos\Projeto04_Subclasse\bin\Debug\net6.0\Projeto04_Subclasse.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo07\Genericos\Projeto04_Subclasse\bin\Debug\net6.0\Projeto04_Subclasse.pdb
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo07\Genericos\Projeto04_Subclasse\obj\Debug\net6.0\Projeto04_Subclasse.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo07\Genericos\Projeto04_Subclasse\obj\Debug\net6.0\refint\Projeto04_Subclasse.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo07\Genericos\Projeto04_Subclasse\obj\Debug\net6.0\Projeto04_Subclasse.pdb
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo07\Genericos\Projeto04_Subclasse\obj\Debug\net6.0\Projeto04_Subclasse.genruntimeconfig.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo07\Genericos\Projeto04_Subclasse\obj\Debug\net6.0\ref\Projeto04_Subclasse.dll

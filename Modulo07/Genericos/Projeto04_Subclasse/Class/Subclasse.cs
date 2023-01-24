@@ -14,7 +14,7 @@ namespace Projeto04_Subclasse.Class
      * A sublcasse está repassando o parâmetro de tipo para a superclasse. Quando instanciada, a Sublcasse deverá
      * receber seu tipo adequadamente 
      */
-    internal class Subclasse<T> : ClasseBase<decima>
+    internal class Subclasse<T> : ClasseBase<string>
     {
     }
 }

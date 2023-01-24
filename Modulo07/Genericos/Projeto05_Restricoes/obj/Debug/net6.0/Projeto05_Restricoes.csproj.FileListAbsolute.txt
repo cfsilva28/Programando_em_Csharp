@@ -1,0 +1,15 @@
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo07\Genericos\Projeto05_Restricoes\obj\Debug\net6.0\Projeto05_Restricoes.csproj.AssemblyReference.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo07\Genericos\Projeto05_Restricoes\obj\Debug\net6.0\Projeto05_Restricoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo07\Genericos\Projeto05_Restricoes\obj\Debug\net6.0\Projeto05_Restricoes.AssemblyInfoInputs.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo07\Genericos\Projeto05_Restricoes\obj\Debug\net6.0\Projeto05_Restricoes.AssemblyInfo.cs
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo07\Genericos\Projeto05_Restricoes\obj\Debug\net6.0\Projeto05_Restricoes.csproj.CoreCompileInputs.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo07\Genericos\Projeto05_Restricoes\bin\Debug\net6.0\Projeto05_Restricoes.exe
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo07\Genericos\Projeto05_Restricoes\bin\Debug\net6.0\Projeto05_Restricoes.deps.json
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo07\Genericos\Projeto05_Restricoes\bin\Debug\net6.0\Projeto05_Restricoes.runtimeconfig.json
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo07\Genericos\Projeto05_Restricoes\bin\Debug\net6.0\Projeto05_Restricoes.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo07\Genericos\Projeto05_Restricoes\bin\Debug\net6.0\Projeto05_Restricoes.pdb
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo07\Genericos\Projeto05_Restricoes\obj\Debug\net6.0\Projeto05_Restricoes.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo07\Genericos\Projeto05_Restricoes\obj\Debug\net6.0\refint\Projeto05_Restricoes.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo07\Genericos\Projeto05_Restricoes\obj\Debug\net6.0\Projeto05_Restricoes.pdb
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo07\Genericos\Projeto05_Restricoes\obj\Debug\net6.0\Projeto05_Restricoes.genruntimeconfig.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo07\Genericos\Projeto05_Restricoes\obj\Debug\net6.0\ref\Projeto05_Restricoes.dll
