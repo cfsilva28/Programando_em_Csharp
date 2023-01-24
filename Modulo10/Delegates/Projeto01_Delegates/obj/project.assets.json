@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net6.0": {}
+    "net5.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net6.0": []
+    "net5.0": []
   },
   "packageFolders": {
     "C:\\Users\\ceferreira\\.nuget\\packages\\": {}
@@ -13,26 +13,26 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ceferreira\\Documents\\Programando com C# (Online - Ao Vivo)\\Programando_em_Csharp\\Modulo09\\TratamentoExcecoes\\Projeto02_Throw\\Projeto02_Throw.csproj",
-      "projectName": "Projeto02_Throw",
-      "projectPath": "C:\\Users\\ceferreira\\Documents\\Programando com C# (Online - Ao Vivo)\\Programando_em_Csharp\\Modulo09\\TratamentoExcecoes\\Projeto02_Throw\\Projeto02_Throw.csproj",
+      "projectUniqueName": "C:\\Users\\ceferreira\\Documents\\Programando com C# (Online - Ao Vivo)\\Programando_em_Csharp\\Modulo10\\Delegates\\Projeto01_Delegates\\Projeto01_Delegates.csproj",
+      "projectName": "Projeto01_Delegates",
+      "projectPath": "C:\\Users\\ceferreira\\Documents\\Programando com C# (Online - Ao Vivo)\\Programando_em_Csharp\\Modulo10\\Delegates\\Projeto01_Delegates\\Projeto01_Delegates.csproj",
       "packagesPath": "C:\\Users\\ceferreira\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ceferreira\\Documents\\Programando com C# (Online - Ao Vivo)\\Programando_em_Csharp\\Modulo09\\TratamentoExcecoes\\Projeto02_Throw\\obj\\",
+      "outputPath": "C:\\Users\\ceferreira\\Documents\\Programando com C# (Online - Ao Vivo)\\Programando_em_Csharp\\Modulo10\\Delegates\\Projeto01_Delegates\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ceferreira\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net6.0"
+        "net5.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net6.0": {
-          "targetAlias": "net6.0",
+        "net5.0": {
+          "targetAlias": "net5.0",
           "projectReferences": {}
         }
       },
@@ -43,8 +43,8 @@
       }
     },
     "frameworks": {
-      "net6.0": {
-        "targetAlias": "net6.0",
+      "net5.0": {
+        "targetAlias": "net5.0",
         "imports": [
           "net461",
           "net462",

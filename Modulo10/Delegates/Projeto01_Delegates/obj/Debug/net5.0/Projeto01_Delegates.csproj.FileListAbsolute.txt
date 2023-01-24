@@ -1,0 +1,16 @@
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo10\Delegates\Projeto01_Delegates\bin\Debug\net5.0\Projeto01_Delegates.exe
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo10\Delegates\Projeto01_Delegates\bin\Debug\net5.0\Projeto01_Delegates.deps.json
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo10\Delegates\Projeto01_Delegates\bin\Debug\net5.0\Projeto01_Delegates.runtimeconfig.json
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo10\Delegates\Projeto01_Delegates\bin\Debug\net5.0\Projeto01_Delegates.runtimeconfig.dev.json
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo10\Delegates\Projeto01_Delegates\bin\Debug\net5.0\Projeto01_Delegates.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo10\Delegates\Projeto01_Delegates\bin\Debug\net5.0\Projeto01_Delegates.pdb
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo10\Delegates\Projeto01_Delegates\obj\Debug\net5.0\Projeto01_Delegates.csproj.AssemblyReference.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo10\Delegates\Projeto01_Delegates\obj\Debug\net5.0\Projeto01_Delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo10\Delegates\Projeto01_Delegates\obj\Debug\net5.0\Projeto01_Delegates.AssemblyInfoInputs.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo10\Delegates\Projeto01_Delegates\obj\Debug\net5.0\Projeto01_Delegates.AssemblyInfo.cs
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo10\Delegates\Projeto01_Delegates\obj\Debug\net5.0\Projeto01_Delegates.csproj.CoreCompileInputs.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo10\Delegates\Projeto01_Delegates\obj\Debug\net5.0\Projeto01_Delegates.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo10\Delegates\Projeto01_Delegates\obj\Debug\net5.0\refint\Projeto01_Delegates.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo10\Delegates\Projeto01_Delegates\obj\Debug\net5.0\Projeto01_Delegates.pdb
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo10\Delegates\Projeto01_Delegates\obj\Debug\net5.0\Projeto01_Delegates.genruntimeconfig.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo10\Delegates\Projeto01_Delegates\obj\Debug\net5.0\ref\Projeto01_Delegates.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ceferreira\\Documents\\Programando com C# (Online - Ao Vivo)\\Programando_em_Csharp\\Modulo09\\TratamentoExecoes\\Projeto01_TryCatch\\Projeto01_TryCatch.csproj",
+      "projectUniqueName": "C:\\Users\\ceferreira\\Documents\\Programando com C# (Online - Ao Vivo)\\Programando_em_Csharp\\Modulo09\\TratamentoExcecoes\\Projeto01_TryCatch\\Projeto01_TryCatch.csproj",
       "projectName": "Projeto01_TryCatch",
-      "projectPath": "C:\\Users\\ceferreira\\Documents\\Programando com C# (Online - Ao Vivo)\\Programando_em_Csharp\\Modulo09\\TratamentoExecoes\\Projeto01_TryCatch\\Projeto01_TryCatch.csproj",
+      "projectPath": "C:\\Users\\ceferreira\\Documents\\Programando com C# (Online - Ao Vivo)\\Programando_em_Csharp\\Modulo09\\TratamentoExcecoes\\Projeto01_TryCatch\\Projeto01_TryCatch.csproj",
       "packagesPath": "C:\\Users\\ceferreira\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ceferreira\\Documents\\Programando com C# (Online - Ao Vivo)\\Programando_em_Csharp\\Modulo09\\TratamentoExecoes\\Projeto01_TryCatch\\obj\\",
+      "outputPath": "C:\\Users\\ceferreira\\Documents\\Programando com C# (Online - Ao Vivo)\\Programando_em_Csharp\\Modulo09\\TratamentoExcecoes\\Projeto01_TryCatch\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ceferreira\\AppData\\Roaming\\NuGet\\NuGet.Config",
