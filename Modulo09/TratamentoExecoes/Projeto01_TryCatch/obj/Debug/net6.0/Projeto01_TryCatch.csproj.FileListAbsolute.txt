@@ -1,0 +1,15 @@
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo09\TratamentoExecoes\Projeto01_TryCatch\bin\Debug\net6.0\Projeto01_TryCatch.exe
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo09\TratamentoExecoes\Projeto01_TryCatch\bin\Debug\net6.0\Projeto01_TryCatch.deps.json
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo09\TratamentoExecoes\Projeto01_TryCatch\bin\Debug\net6.0\Projeto01_TryCatch.runtimeconfig.json
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo09\TratamentoExecoes\Projeto01_TryCatch\bin\Debug\net6.0\Projeto01_TryCatch.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo09\TratamentoExecoes\Projeto01_TryCatch\bin\Debug\net6.0\Projeto01_TryCatch.pdb
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo09\TratamentoExecoes\Projeto01_TryCatch\obj\Debug\net6.0\Projeto01_TryCatch.csproj.AssemblyReference.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo09\TratamentoExecoes\Projeto01_TryCatch\obj\Debug\net6.0\Projeto01_TryCatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo09\TratamentoExecoes\Projeto01_TryCatch\obj\Debug\net6.0\Projeto01_TryCatch.AssemblyInfoInputs.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo09\TratamentoExecoes\Projeto01_TryCatch\obj\Debug\net6.0\Projeto01_TryCatch.AssemblyInfo.cs
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo09\TratamentoExecoes\Projeto01_TryCatch\obj\Debug\net6.0\Projeto01_TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo09\TratamentoExecoes\Projeto01_TryCatch\obj\Debug\net6.0\Projeto01_TryCatch.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo09\TratamentoExecoes\Projeto01_TryCatch\obj\Debug\net6.0\refint\Projeto01_TryCatch.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo09\TratamentoExecoes\Projeto01_TryCatch\obj\Debug\net6.0\Projeto01_TryCatch.pdb
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo09\TratamentoExecoes\Projeto01_TryCatch\obj\Debug\net6.0\Projeto01_TryCatch.genruntimeconfig.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo09\TratamentoExecoes\Projeto01_TryCatch\obj\Debug\net6.0\ref\Projeto01_TryCatch.dll
