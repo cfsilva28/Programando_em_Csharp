@@ -1,0 +1,15 @@
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo12\Arquivos\Projeto01_SalvarArquivos\bin\Debug\net6.0\Projeto01_SalvarArquivos.exe
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo12\Arquivos\Projeto01_SalvarArquivos\bin\Debug\net6.0\Projeto01_SalvarArquivos.deps.json
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo12\Arquivos\Projeto01_SalvarArquivos\bin\Debug\net6.0\Projeto01_SalvarArquivos.runtimeconfig.json
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo12\Arquivos\Projeto01_SalvarArquivos\bin\Debug\net6.0\Projeto01_SalvarArquivos.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo12\Arquivos\Projeto01_SalvarArquivos\bin\Debug\net6.0\Projeto01_SalvarArquivos.pdb
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo12\Arquivos\Projeto01_SalvarArquivos\obj\Debug\net6.0\Projeto01_SalvarArquivos.csproj.AssemblyReference.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo12\Arquivos\Projeto01_SalvarArquivos\obj\Debug\net6.0\Projeto01_SalvarArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo12\Arquivos\Projeto01_SalvarArquivos\obj\Debug\net6.0\Projeto01_SalvarArquivos.AssemblyInfoInputs.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo12\Arquivos\Projeto01_SalvarArquivos\obj\Debug\net6.0\Projeto01_SalvarArquivos.AssemblyInfo.cs
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo12\Arquivos\Projeto01_SalvarArquivos\obj\Debug\net6.0\Projeto01_SalvarArquivos.csproj.CoreCompileInputs.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo12\Arquivos\Projeto01_SalvarArquivos\obj\Debug\net6.0\Projeto01_SalvarArquivos.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo12\Arquivos\Projeto01_SalvarArquivos\obj\Debug\net6.0\refint\Projeto01_SalvarArquivos.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo12\Arquivos\Projeto01_SalvarArquivos\obj\Debug\net6.0\Projeto01_SalvarArquivos.pdb
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo12\Arquivos\Projeto01_SalvarArquivos\obj\Debug\net6.0\Projeto01_SalvarArquivos.genruntimeconfig.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo12\Arquivos\Projeto01_SalvarArquivos\obj\Debug\net6.0\ref\Projeto01_SalvarArquivos.dll

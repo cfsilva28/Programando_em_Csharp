@@ -1,0 +1,15 @@
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo12\Arquivos\Projeto02_LerArquivos\bin\Debug\net6.0\Projeto02_LerArquivos.exe
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo12\Arquivos\Projeto02_LerArquivos\bin\Debug\net6.0\Projeto02_LerArquivos.deps.json
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo12\Arquivos\Projeto02_LerArquivos\bin\Debug\net6.0\Projeto02_LerArquivos.runtimeconfig.json
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo12\Arquivos\Projeto02_LerArquivos\bin\Debug\net6.0\Projeto02_LerArquivos.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo12\Arquivos\Projeto02_LerArquivos\bin\Debug\net6.0\Projeto02_LerArquivos.pdb
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo12\Arquivos\Projeto02_LerArquivos\obj\Debug\net6.0\Projeto02_LerArquivos.csproj.AssemblyReference.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo12\Arquivos\Projeto02_LerArquivos\obj\Debug\net6.0\Projeto02_LerArquivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo12\Arquivos\Projeto02_LerArquivos\obj\Debug\net6.0\Projeto02_LerArquivos.AssemblyInfoInputs.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo12\Arquivos\Projeto02_LerArquivos\obj\Debug\net6.0\Projeto02_LerArquivos.AssemblyInfo.cs
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo12\Arquivos\Projeto02_LerArquivos\obj\Debug\net6.0\Projeto02_LerArquivos.csproj.CoreCompileInputs.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo12\Arquivos\Projeto02_LerArquivos\obj\Debug\net6.0\Projeto02_LerArquivos.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo12\Arquivos\Projeto02_LerArquivos\obj\Debug\net6.0\refint\Projeto02_LerArquivos.dll
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo12\Arquivos\Projeto02_LerArquivos\obj\Debug\net6.0\Projeto02_LerArquivos.pdb
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo12\Arquivos\Projeto02_LerArquivos\obj\Debug\net6.0\Projeto02_LerArquivos.genruntimeconfig.cache
+C:\Users\ceferreira\Documents\Programando com C# (Online - Ao Vivo)\Programando_em_Csharp\Modulo12\Arquivos\Projeto02_LerArquivos\obj\Debug\net6.0\ref\Projeto02_LerArquivos.dll
