@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Projeto01_ProgramacaoAssincronaTask/1.0.0": {
+        "runtime": {
+          "Projeto01_ProgramacaoAssincronaTask.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Projeto01_ProgramacaoAssincronaTask/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
